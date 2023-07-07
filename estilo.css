@@ -1,0 +1,148 @@
+body{
+    background-color: #94663e80 ;
+margin:0;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+.cabecalho{
+background-image: url(pexels-mostafa-eissa-3424406.jpg);
+height: 600px;
+background-size:cover;
+padding-top: 1px;
+}
+
+.div-cabecalho{
+/*background-color:aquamarine;*/
+margin: 100px auto 0 auto;
+width: 80%;
+color: #FCC640;
+text-align: center;
+}
+
+.div-cabecalho h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+
+}
+
+.div-cabecalho a {
+    background-color: #F2BE7E;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #260101;
+
+}
+
+.div-cabecalho a:hover{
+    background-color:
+    #FCC640;
+color:  #260101;
+
+}
+ 
+
+.cabecalho nav ul{
+   /* background-color:aquamarine;*/
+    margin: 25px 40px 0 0;
+    text-align: right;
+  
+
+
+}
+
+.cabecalho nav ul li{
+list-style-type: none;
+display: inline-block;
+margin: 15px;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-size: 12px;
+
+}
+
+.cabecalho nav a{
+    color: #260101;
+    text-decoration: none;
+    background-color: #F2BE7E;
+    padding: 5px;
+    border-radius: 5px;
+   
+}
+
+.cabecalho nav a:hover{
+    background-color:
+    #FCC640;
+}
+
+main{
+    width: 90%;
+margin: auto;
+}
+
+
+
+.info h2{
+    background-color:#733702;
+    text-align: center;
+    padding: 0px;
+    margin: 7px;
+     margin-top: 20px;
+    color:#400409;
+}
+
+
+
+.info p{
+ background-color: #8c623e8e;
+padding: 10px 10px 10px 10px;
+font-family:Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+
+
+.rodape{
+    text-align: center;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+       
+
+/*.img{
+    
+    margin: 5px;
+    margin-top: 10px;
+   } */
+
+
+   
+
+
+  
+.img1:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.50);
+   }
+
+  
+    .img1{      
+        -webkit-transition: -webkit-transform .5s ease;
+        transition: transform .5s ease;
+        margin: 5px;
+        margin-top: 10px;
+   }
+
+
+
+
+
+
+
+
